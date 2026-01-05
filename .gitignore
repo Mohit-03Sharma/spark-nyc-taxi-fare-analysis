@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+
+# Conda
+.conda/
+conda-meta/
+
+# Data (too large / reproducible)
+data/raw/
+data/processed/
+
+# Spark / Hadoop
+spark-warehouse/
+*.crc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
