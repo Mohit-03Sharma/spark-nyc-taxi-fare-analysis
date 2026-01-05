@@ -1,0 +1,3 @@
+model,sample_frac,MAE,RMSE
+Model0_DistanceOnly_LinearRegression,0.01,1.6444521911493954,2.785529351527055
+Model1_ContextAware_RandomForest+Duration,0.01,0.3057551171292489,1.143238951460239
